@@ -1,57 +1,67 @@
-# 🤖 RPA Projects Portfolio (UiPath)
+# 🤖 RPA Projects Portfolio – UiPath Automation
 
-Welcome to my RPA (Robotic Process Automation) project portfolio!  
-Here you'll find a collection of automation solutions I've built using **UiPath Studio**, focusing on improving efficiency, reducing manual tasks, and streamlining repetitive processes.
-
----
-
-## 📌 Projects Included
-
-### 1. 📧 Email Notification System
-**Description:**  
-Automates email reminders for task deadlines using data from an Excel file. Uses SMTP to send personalized emails to assignees and displays a confirmation message once all emails are sent.
-
-- Technologies: UiPath, Excel, SMTP
-- Skills: DataTable manipulation, dynamic email generation, conditional logic
-- [GitHub Link](./Email-Notification-System)
+Welcome to my **RPA (Robotic Process Automation)** portfolio!  
+This repository showcases automation projects built using **UiPath Studio**, designed to eliminate repetitive tasks, enhance accuracy, and increase productivity across various domains.
 
 ---
 
-<!-- More Projects Coming Soon --!>
+## 📁 Projects
+
+### 📧 1. Email Notification System
+> Automates task reminders by sending emails using Excel data and SMTP.
+
+- **Tech Stack:** UiPath, Excel, SMTP
+- **Key Features:**
+  - Reads tasks from Excel
+  - Sends personalized reminder emails
+  - Displays success message after processing
+- [🔗 View Project](./Email-Notification-System)
 
 ---
 
-## 🚀 Why RPA?
+### 🚧 More Projects Coming Soon...
 
-RPA helps businesses automate repetitive, rule-based tasks, improving speed, accuracy, and scalability. These projects reflect practical automation scenarios in:
+--- 
 
-- Project Management
-- HR and Recruitment
-- Data Entry and Reporting
-- Web Scraping
-- Email Communication
+## 🧠 Why RPA?
+
+> RPA helps automate time-consuming, rule-based business processes to improve efficiency, speed, and accuracy.
+
+My projects demonstrate real-world automation in:
+- Email handling
+- More Projects coming soon
 
 ---
 
-## 🧠 Tools & Technologies
+## 🛠 Technologies & Tools
 
 - UiPath Studio (Community Edition)
-- Excel / Google Sheets
-- SMTP / Outlook / Gmail
-- PDF / Email / Web Automation
-- Regex, String Manipulation, Control Flow
+- Excel, CSV
+- Outlook, SMTP
+- PDF and File System Automation
+- Regex, String Manipulation
+- Control Flow, Error Handling
 
 ---
 
-## 📃 License
+## 🚀 Future Enhancements
 
-All projects are shared for educational and demonstration purposes. You are welcome to explore and adapt them.
+- Integration with Slack or MS Teams
+- Real-time dashboards and reporting
+- Excel-to-database workflow
+- Scheduling via UiPath Orchestrator
 
 ---
 
-## 🙋 About Me
+## 👩‍💻 About Me
 
 **Riddhi More**  
-Passionate about building smart, real-world automation using UiPath.  
+Aspiring RPA Developer | Passionate about automation | MCA Graduate  
 
 ---
+
+## 📄 License
+
+These projects are shared for educational and demo purposes.  
+Feel free to explore, fork, or build upon them with credit.
+
